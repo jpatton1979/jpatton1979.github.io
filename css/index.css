@@ -104,7 +104,6 @@ li a:active
 
 footer
 {
-    /* background-color: rgb(59, 49, 245); */
     background-color: rgb(130, 130, 221);
     flex: 1;
     color: white;
@@ -139,13 +138,3 @@ footer
         flex-direction: column;
     }
 }
-
-/*
-@media screen and (min-width: 1281px)
-{
-    section
-    {
-        flex-direction: column-reverse;
-    }
-}
-*/
